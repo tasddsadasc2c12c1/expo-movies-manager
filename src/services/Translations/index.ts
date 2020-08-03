@@ -5,7 +5,7 @@ import i18n from 'i18n-js';
 i18n.translations = {
 	en: {
 		welcome: {
-			title: 'Expo Firebase Starter',
+			title: 'Expo Movies Manager',
 			login: 'Login',
 			register: 'Register',
 			'fb-login': 'Continue with Facebook',
